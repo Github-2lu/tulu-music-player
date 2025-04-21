@@ -1,4 +1,4 @@
-![Screenshot_2025-04-21-12-00-50-455_com example chat_app](https://github.com/user-attachments/assets/751b3e64-cd86-4367-9584-ac41801fe55f)# tulu_music_player
+# tulu_music_player
 
 An android music player made with flutter and dart. Features: Auto song fetching from files, background play, volume control.
 
